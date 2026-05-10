@@ -18,6 +18,10 @@ Some challenges I faced:
 - Python
 - Python ipinfo package
 
+# Usage
+- [CustomTkinter application](https://github.com/jayrickaby/IpDetailer-App)
+- [SystemTray application](https://github.com/jayrickaby/IpDetailer-Taskbar)
+
 ## Licence
 Copyright © 2026 Jay Rickaby,
 Licensed under the MIT License
